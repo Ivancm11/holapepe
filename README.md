@@ -2,9 +2,9 @@
 
 ## 1. En la TV
 
-1. *Ajustes → Preferencias del dispositivo → Información* → pulsa **7 veces** sobre *Compilación*.
-2. *Ajustes → Preferencias del dispositivo → Opciones de desarrollador* → activa **Depuración USB**.
-3. *Ajustes → Red e Internet →* tu Wi‑Fi → apunta la **IP** (algo tipo `192.168.1.50`).
+1. _Ajustes → Preferencias del dispositivo → Información_ → pulsa **7 veces** sobre _Compilación_.
+2. _Ajustes → Preferencias del dispositivo → Opciones de desarrollador_ → activa **Depuración USB**.
+3. _Ajustes → Red e Internet →_ tu Wi‑Fi → apunta la **IP** (algo tipo `192.168.1.50`).
 
 El PC y la TV tienen que estar en la misma Wi‑Fi.
 
@@ -40,3 +40,5 @@ En la TV aparecerá un aviso: marca **Permitir siempre** y acepta. Si el comando
 ```
 
 Reinicia la TV. Listo.
+
+a
