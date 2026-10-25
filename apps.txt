@@ -1,0 +1,10 @@
+# Poodle Home favourites, top to bottom. One package per line; '#' lines are ignored.
+# After editing, run:  .\mitv.ps1 apps
+# Find a package name with:  .\mitv.ps1 scan   (listed under "Apps you installed")
+com.netflix.ninja
+tv.twitch.android.app
+com.apple.atve.androidtv.appletv
+com.spotify.tv.android
+com.amazon.amazonvideo.livingroom
+com.wbd.stream
+com.disney.disneyplus

@@ -1,0 +1,10 @@
+# Per-TV state: never share these
+backup*.json
+tv.txt
+
+# Build output (the prebuilt launcher/poodle-home.apk IS committed)
+launcher/build/
+assets/wallpapers/
+
+# Signing key: stays on this PC (build.ps1 creates one if missing)
+launcher/debug.keystore
